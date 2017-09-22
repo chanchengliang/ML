@@ -1,0 +1,10 @@
+.svn
+.vs
+.vs/
+bin/
+obj/
+debug/
+*.vcproj.*.user
+*.ncb
+*.aps
+*.suo
